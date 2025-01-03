@@ -15,5 +15,10 @@
     "url": "https://github.com/AnushkaJainCoder/Express-Project/issues"
   },
   "homepage": "https://github.com/AnushkaJainCoder/Express-Project#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
 }
